@@ -1,0 +1,4 @@
+keras==2.12.0rc0
+numpy==1.23.5
+Pillow==9.4.0
+tensorflow==2.12.0rc0

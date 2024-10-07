@@ -1,7 +1,5 @@
 # telegram_keras
 
+pip cache info
 
-apt-get install libgl1
-
-pip install teachable-machine
-
+pip cache purge
